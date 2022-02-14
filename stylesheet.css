@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: lobster;
+    background-color: light-gold;
+  }
+  img{
+    max-width: 100%;
+    max-height: 200px;
+    display: block;
+    Margin-left: auto;
+      Margin-right: auto;
+    }
+  
+  p{
+    text-align: justify;
+    font-family: arial;
+    
+  }
+  a{
+   color: darkgray;
+  }
+  
